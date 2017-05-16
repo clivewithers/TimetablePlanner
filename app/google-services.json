@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668072426681",
+    "firebase_url": "https://timetableplanner-25921.firebaseio.com",
+    "project_id": "timetableplanner-25921",
+    "storage_bucket": "timetableplanner-25921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668072426681:android:c556a31474083a8d",
+        "android_client_info": {
+          "package_name": "com.example.clive.timetableplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668072426681-ahvq4ojupbtn4iogm7knfotk7gvmc83c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clive.timetableplanner",
+            "certificate_hash": "1e8750db6610683aa6958bdd9cfe142b86945476"
+          }
+        },
+        {
+          "client_id": "668072426681-603n9fa2v1dcbmgiq0dfrvur73au44b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKR93SOaKOAMRAP8yY716IhowiBknqjfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668072426681-603n9fa2v1dcbmgiq0dfrvur73au44b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
